@@ -34,6 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GloriaArackel&" alt="GloriaArackel" /></p>
 
-### 🐍 My Contribution Snake (just vibing with commits)
-
-![snake gif](https://github.com/GloriaJoseph/GloriaJoseph/blob/output/github-contribution-grid-snake.svg)
