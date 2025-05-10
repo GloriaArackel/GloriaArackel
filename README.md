@@ -32,4 +32,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GloriaArackel&show_icons=true&locale=en&layout=compact" alt="GloriaArackel" /></p>
 
-<p align="center"> <img src="https://media.giphy.com/media/3orieYJQbKk0vHk9EA/giphy.gif" width="300px" /> </p>
