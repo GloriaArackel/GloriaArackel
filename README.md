@@ -28,8 +28,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/>
+  </a>
 </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GloriaArackel&show_icons=true&locale=en&layout=compact" alt="GloriaArackel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GloriaArackel&" alt="GloriaArackel" /></p>
