@@ -70,3 +70,21 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <!-- C -->
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <!-- Figma -->
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <!-- Canva -->
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
