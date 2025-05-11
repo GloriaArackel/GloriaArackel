@@ -19,7 +19,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="40" height="40"/>
   </a>
   <!-- Email -->
-  <a href="mailto:rosearackel.com">
+  <!-- Email -->
+  <a href="mailto:rosearackel@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </div>
