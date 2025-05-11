@@ -15,7 +15,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-
   <!-- Medium -->
   <a href="https://medium.com/@rosearackel" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="40" height="40"/>
@@ -26,6 +25,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- C -->
