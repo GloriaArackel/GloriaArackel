@@ -38,53 +38,22 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GloriaArackel&" alt="GloriaArackel" /></p>
 
-<h3 align="center">💻 Tech Stack</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br>C
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/><br>HTML
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br>Figma
-    </td>
-    <td align="center" width="100">
-      <img src="https://i.imgur.com/VAJvK0F.png" width="40" height="40" alt="Canva"/><br>Canva
-    </td>
-  </tr>
-</table>
 <p align="center">
   <!-- C -->
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <!-- C++ -->
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/-C%2B%2B-0080FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <!-- Java -->
-  <img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Java-FF6F00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <!-- MySQL -->
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-MySQL-009EDF?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <!-- Python -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <!-- Figma -->
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/-Figma-FF3366?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <!-- Canva -->
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/-Canva-00E5E5?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
