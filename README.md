@@ -33,8 +33,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GloriaArackel&" alt="GloriaArackel" /></p>
 
-<p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gloria-joseph-562530291/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Twitter -->
+  <a href="https://x.com/GloriaArackel/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Medium -->
+  <a href="https://medium.com/@rosearackel" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="40" height="40"/>
   </a>
 </p>
