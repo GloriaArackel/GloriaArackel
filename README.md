@@ -5,13 +5,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GloriaArackel&label=Profile%20views&color=0e75b6&style=flat" alt="GloriaArackel" /> </p>
  
 <h3 align="center">How to reach me:</h3>
- <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; text-align: center; margin-top: 20px;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gloria-joseph-562530291/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <!-- Twitter -->
-  <a href="https://x.com/GloriaArackel/" target="_blank">
+  <a href="https://x.com/GloriaArackel" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
   </a>
   <!-- Medium -->
@@ -23,6 +23,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </div>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
