@@ -38,3 +38,35 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GloriaArackel&" alt="GloriaArackel" /></p>
 
+<h3 align="center">💻 Tech Stack</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br>C
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/><br>HTML
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br>Figma
+    </td>
+    <td align="center" width="100">
+      <img src="https://i.imgur.com/VAJvK0F.png" width="40" height="40" alt="Canva"/><br>Canva
+    </td>
+  </tr>
+</table>
